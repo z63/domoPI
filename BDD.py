@@ -1,0 +1,5 @@
+
+HOTE = "HOTE"
+DB = "DB"
+LOGIN = "LOGIN"
+PASS = "PASS"
