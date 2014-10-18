@@ -6,6 +6,8 @@ PIN = 4
 
 mesures = None
 
+#on s'assure d'avoir une mesure
+
 while mesures is None:
     dhtreader.init()
     mesures = re.findall("[0-9]{2}\.[0-9]{1}", str(dhtreader.read(TYPE, PIN)))
