@@ -1,5 +1,6 @@
-import dhtreader, re, MySQLdb, BDD.py
+import dhtreader, re, MySQLdb
 
+from BDD import *
 
 TYPE = 22
 PIN = 4
