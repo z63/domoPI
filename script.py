@@ -1,4 +1,4 @@
-import dhtreader, re, MySQLdb, BDD
+import dhtreader, re, MySQLdb, BDD.py
 
 
 TYPE = 22
